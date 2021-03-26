@@ -7,7 +7,7 @@ This documentation contains a set of guidelines to help you during the contribut
 ```
 $ git clone https://github.com/<your-username>/<repo-name>
 $ cd Mined-Hackathon
-$ git remote add upstream https://www.github.com/urvashiramdasani/Mined-Hackathon.git
+$ git remote add upstream https://www.github.com/urvashiramdasani/Document-Summarization.git
 ```
 
 3. Create a branch of your name
