@@ -4,6 +4,7 @@ This repository contains all the material related to Document Summarization perf
 1. Urvashi Ramdasani
 2. Shreyanshi Vadhvana
 3. Sunidhi Tandel
+4. Chandni Tomar
 
 ### Contributing
 Follow the [CONTRIBUTING.md](../main/CONTRIBUTING.md) file to make contributions to this project.
